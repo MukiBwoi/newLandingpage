@@ -13,7 +13,9 @@
         }
         #button2 {
             margin-top: 1vw;
-            font-size: 1.5vw;
+            font-size: 1.7vw;
+            padding: 1vw 4vw;
+            border-radius: 0;
         }
         #form {
             margin-top: 7vw;
@@ -53,6 +55,8 @@
         #button2 {
             margin-top: 1.5vw;
             font-size: 2vw;
+            padding: 1vw 4vw;
+            border-radius: 0;
         }
         h2 {
             font-size: 3vw;

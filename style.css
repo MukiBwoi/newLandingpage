@@ -79,8 +79,6 @@
         padding-bottom: 20px;
     }
     
-    .text {}
-    
     #form {
         background-color: rgba(112, 110, 110, 0.2);
         width: auto;
@@ -129,9 +127,17 @@
     
     #gap {
         margin-top: 2vw;
+        border-radius: 0;
     }
     
     #thumb4 {
         width: auto;
         height: 30vw;
+    }
+    
+    .partners {
+        color: #01579b;
+        font-weight: 600;
+        margin-top: 1.5vw;
+        text-align: right;
     }
