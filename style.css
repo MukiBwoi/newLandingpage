@@ -1,0 +1,117 @@
+    html,
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .hero {
+        background-color: #01579b;
+        width: 100%;
+        height: auto;
+        padding: 3vw 5vw;
+    }
+    
+    .button1 {
+        background-color: yellow;
+        color: #01579b;
+        font-weight: bold;
+        padding: 0.9vw;
+        font-size: 1.6vw;
+    }
+    
+    .content {
+        padding-bottom: 0vw;
+    }
+    
+    .para {
+        color: #fff;
+        font-size: 4vw;
+        font-weight: bold;
+    }
+    
+    .img {
+        padding: 0;
+        float: right;
+        height: auto;
+    }
+    
+    .details {
+        font-size: 2.5vw;
+        color: #fff;
+    }
+    
+    .underline {
+        height: 0.3vw;
+        width: 21vw;
+        margin: 0;
+    }
+    
+    #img1 {
+        height: 10vw;
+        width: auto;
+    }
+    
+    #img2 {
+        width: auto;
+        height: 12vw;
+    }
+    
+    #img3 {
+        width: auto;
+        height: 18vw;
+    }
+    
+    #img4 {
+        width: auto;
+        height: 18vw;
+    }
+    
+    .con {}
+    
+    #first {
+        background-color: aqua;
+        margin: 0;
+        width: 100%;
+    }
+    
+    .heading {
+        color: #01579b;
+        font-weight: bold;
+        padding-bottom: 20px;
+    }
+    
+    .text {}
+    
+    #form {
+        background-color: rgba(112, 110, 110, 0.2);
+        width: auto;
+    }
+    
+    #spot {
+        text-align: center;
+        font-weight: 700;
+        color: #01579b;
+    }
+    
+    .spotin {
+        font-weight: 600;
+        color: black;
+    }
+    
+    #button2 {
+        background-color: #01579b;
+        color: white;
+        position: relative;
+    }
+    
+    #second {
+        margin: 0;
+        background-color: blue;
+        height: 100%;
+        width: 100%;
+    }
+    
+    #thumb1 {
+        width: auto;
+        height: 40vw;
+    }
