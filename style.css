@@ -69,7 +69,6 @@
     .con {}
     
     #first {
-        background-color: aqua;
         margin: 0;
         width: 100%;
     }
@@ -106,12 +105,33 @@
     
     #second {
         margin: 0;
-        background-color: blue;
-        height: 100%;
+        background-color: #01579b;
         width: 100%;
+        padding: 3vw 5vw;
     }
     
     #thumb1 {
         width: auto;
         height: 40vw;
+    }
+    
+    small,
+    h2 {
+        color: white;
+        font-weight: bold;
+    }
+    
+    .inner {
+        align-content: center;
+        text-align: center;
+        margin-top: 2vw;
+    }
+    
+    #gap {
+        margin-top: 2vw;
+    }
+    
+    #thumb4 {
+        width: auto;
+        height: 30vw;
     }

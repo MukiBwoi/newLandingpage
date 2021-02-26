@@ -1,51 +1,63 @@
-@media screen and (max-width: 768px) {
-    .heading {
-        font-size: 25px;
+    @media screen and (max-width: 768px) {
+        .heading {
+            font-size: 25px;
+        }
+        .text {
+            font-size: 2vw;
+        }
+        .spotin {
+            font-size: 8.5px;
+        }
+        #spot {
+            font-size: 15px;
+        }
+        #button2 {
+            margin-top: 1vw;
+            font-size: 1.5vw;
+        }
+        #form {
+            margin-top: 7vw;
+            padding: 3vw;
+        }
+        #firstcol {
+            padding-top: 6vw;
+        }
+        h2 {
+            font-size: 3vw;
+        }
+        small {
+            font-size: 2vw;
+        }
     }
-    .text {
-        font-size: 2vw;
+    
+    @media screen and (min-width: 768px) {
+        .heading {
+            font-size: 50px;
+        }
+        .text {
+            font-size: 20px;
+        }
+        .spotin {
+            font-size: 15px;
+        }
+        #spot {
+            font-size: 25px;
+        }
+        #form {
+            margin-top: 4vw;
+            padding: 3vw;
+        }
+        #firstcol {
+            padding-top: 4vw;
+        }
+        #button2 {
+            margin-top: 1.5vw;
+            font-size: 2vw;
+        }
+        h2 {
+            font-size: 3vw;
+        }
+        small {
+            font-size: 1.5vw;
+        }
     }
-    .spotin {
-        font-size: 8.5px;
-    }
-    #spot {
-        font-size: 15px;
-    }
-    #button2 {
-        margin-top: 1vw;
-        font-size: 1.5vw;
-    }
-    #form {
-        margin-top: 7vw;
-        padding: 3vw;
-    }
-    #firstcol {
-        padding-top: 6vw;
-    }
-}
-
-@media screen and (min-width: 768px) {
-    .heading {
-        font-size: 50px;
-    }
-    .text {
-        font-size: 20px;
-    }
-    .spotin {
-        font-size: 15px;
-    }
-    #spot {
-        font-size: 25px;
-    }
-    #form {
-        margin-top: 4vw;
-        padding: 3vw;
-    }
-    #firstcol {
-        padding-top: 4vw;
-    }
-    #button2 {
-        margin-top: 1.5vw;
-        font-size: 2vw;
-    }
-}
